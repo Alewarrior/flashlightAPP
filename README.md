@@ -2,7 +2,7 @@
 DIO: Construindo um app usando o sensor de movimento com React Native
 
 ## Obs:
-Não funciona no Emulandor do Android.
+Não funciona no Emulador do Android.
 
 ## Conteúdo 
 
